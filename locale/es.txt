@@ -1,0 +1,97 @@
+#: locale=es
+
+## Tour
+
+### Título
+tour.name = Townhouse - Socabaya - VENTUS
+
+## Skin
+
+### Botón
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = VENTUS
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = INFORMACIÓN DE PROYECTO
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = ESPACIOS 360°
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = UBICACIÓN DEL PROYECTO
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = UBICACIÓN DEL PROYECTO
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = PLANOS DE DISTRIBUCIÓN
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = IMÁGENES DEL PROYECTO
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = ELABORACIÓN 3D
+
+### Texto Multilinea
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.13vw;font-family:'Calibri';">_________</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#575756;font-size:1.88vw;font-family:'Calibri';"><B>LAS TERRAZAS DE SOCABAYA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.25vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.03vw;font-family:'Calibri';"><B>VENTUS - CONSTRUCTORA E INMOBILIARIA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Calibri';">Conoce nuestro nuevo proyecto "Las Terrazas de Socabaya" y separa tu Town House en preventa</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.42vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Calibri';">Nuestro proyecto cuenta con 4 viviendas estilo Town House, con un diseño moderno y amplio, aprovechando las mejores visuales de la zona directas a la campiña de Socabaya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Calibri';">El proyecto está ubicado a tan solo 1 cuadra del Club Golf de Socabaya.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.33vw;font-family:'Calibri';"><B>Informacion y Ventas:</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Calibri';">Más informacion al:  981 536 781</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vh;font-family:'Oswald';"><B><I>LINE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vh;font-family:'Oswald';"><B><I>Arquitectos &amp; Constructores</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">Somos una empresa de Visualización Arquitectónica y</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">Marketing Inmobiliario. Nos especializamos en brindar</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">diferentes servicios y herramientas para la difusión, publicidad y venta de proyectos inmobiliarios en el mercado actual.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#575756;font-size:0.94vw;font-family:'Calibri';"><B>CONTACTO:</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">Av. Ejército, Edificio Nasya II Of. 401 - Yanahuara - Arequipa</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">grafo3d@grupoinception.pe</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">987250610  </SPAN><SPAN STYLE="color:#34aa49;font-size:0.94vw;font-family:'Calibri';"><B>|</B></SPAN><SPAN STYLE="font-size:0.94vw;font-family:'Calibri';">  953287667</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">GRAFO - Arquitectura Digital</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">grafo3d@grupoinception.pe</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">987250610  </SPAN><SPAN STYLE="color:#31ac00;font-size:16px;"><B>|</B></SPAN><SPAN STYLE="font-size:16px;">  953287667</SPAN></SPAN></DIV></div>
+
+### Etiqueta
+Label_00B990DF_22E4_C36C_41B6_07ECFB0BE109.text = SEGUNDO NIVEL
+Label_05ACB83A_2364_4334_41BA_9CFEDC7EC16D.text = SOTANO
+Label_0B90263E_1F54_46C6_41B2_395344DF80BF.text = PRIMER NIVEL
+
+### Tooltip
+IconButton_00B9D0DF_22E4_C36C_41B7_7307045B4F77.toolTip = Ocultar Mapa
+IconButton_05AC383B_2364_4334_4191_CE3028CD1D83.toolTip = Ocultar Mapa
+IconButton_0AC9E5AB_1F54_C5CF_41B6_6F286D36480E.toolTip = Mostrar Mapa
+IconButton_0B5AA125_1CB5_BAFA_41A0_0D5C39F08B80.toolTip = Ocultar Mapa
+IconButton_101F07F8_21DB_C277_41BF_E22F5AEA0011.toolTip = Mostrar Mapa
+IconButton_1653D7CB_21DB_C2A9_41B0_AA7FA9FFC42C.toolTip = Mostrar Mapa
+IconButton_3A98DF2D_2003_DDE1_41B3_059EB1916B4D.toolTip = Ir a Facebook
+Image_3D8E7A2A_200D_27E3_4195_862215991172.toolTip = Ir a Instagram
+
+## Media
+
+### Título
+album_33050A78_21E4_4734_41BA_531FEBB4197D.label = FOTOS - Las Terrazas de Socabaya
+album_33050A78_21E4_4734_41BA_531FEBB4197D_0.label = Baño principal
+album_33050A78_21E4_4734_41BA_531FEBB4197D_1.label = Baño secundario
+album_33050A78_21E4_4734_41BA_531FEBB4197D_12.label = Fachada posterior
+album_33050A78_21E4_4734_41BA_531FEBB4197D_13.label = Fachada
+album_33050A78_21E4_4734_41BA_531FEBB4197D_14.label = Frontal general
+album_33050A78_21E4_4734_41BA_531FEBB4197D_15.label = Gradas vertical
+album_33050A78_21E4_4734_41BA_531FEBB4197D_16.label = Sala comedor Vertical
+album_33050A78_21E4_4734_41BA_531FEBB4197D_17.label = Sala con Vista
+album_33050A78_21E4_4734_41BA_531FEBB4197D_18.label = Sala vertical
+album_33050A78_21E4_4734_41BA_531FEBB4197D_2.label = Baño visitas
+album_33050A78_21E4_4734_41BA_531FEBB4197D_4.label = Cocina2
+album_33050A78_21E4_4734_41BA_531FEBB4197D_5.label = Dormitorio con vista
+album_33050A78_21E4_4734_41BA_531FEBB4197D_6.label = Dormitorio Principal
+album_33050A78_21E4_4734_41BA_531FEBB4197D_7.label = Dormitorio Secundario
+album_33050A78_21E4_4734_41BA_531FEBB4197D_8.label = Escena Jacuzzi
+album_33050A78_21E4_4734_41BA_531FEBB4197D_9.label = Fachada Conjunto 2
+map_0021A4E3_236C_4354_41B5_5BCE3D266E2C.label = 02 - SEGUNDO NIVEL
+map_002D57E4_236C_4D5C_4194_FAC759A9DEAB.label = 03 - TERCER NIVEL
+map_07D501E7_236C_455C_419A_93E6E0B47C6A.label = 01 - PRIMER NIVEL
+panorama_1207B113_1E5A_FCD4_41B9_26CF0D5765B2.label = SEGUNDO PISO
+panorama_1557FD55_1E5A_C75C_41B8_DC9AA4B1BB8A.label = JACUZZI
+panorama_1558034C_1E5A_434C_4186_113BCAE3762F.label = COMEDOR
+panorama_15580E56_1E5A_C55C_41B4_A9DB2CBE3F1F.label = BAÑO SOCIAL
+panorama_155827E1_1E5A_C374_41AC_50F9190DA0DF.label = DORMITORIO PRINCIPAL
+panorama_15582D86_1E5A_47BC_41A9_11315AB7E1AD.label = SALA COMEDOR
+panorama_155838E1_1E5A_CD74_41A4_B355853C7FE8.label = COCINA
+panorama_155841DF_1E5B_FF4C_41AB_2D1B16349DCE.label = LAVANDERIA
+panorama_155863EA_1E5A_C374_419B_E0EC36E5D001.label = COCINA
+panorama_155878C8_1E5A_4DB4_4199_345EC73C6D12.label = SALA
+panorama_1558828E_1E5A_3DCC_41B5_058897EDA978.label = DORMITORIO PRINCIPAL
+panorama_15588D33_1E5A_44D4_41B9_7DE2D1E2821B.label = PASADIZO SOTANO
+panorama_15589764_1E5B_C37C_41A4_68FD6042BEBC.label = ESTUDIO
+panorama_1558AD19_1E5B_C4D4_41BA_4BF61B4EE5BB.label = BAÑO SECUNDARIO
+panorama_1558C2D9_1E5A_7D54_41BD_4996987E3518.label = SOTANO
+panorama_1558D3F3_1E5A_C354_41BB_B303319EF08B.label = ESCALERAS A SOTANO
+panorama_1558D78E_1E5A_43CC_41A1_8C14A38E5056.label = DORMITORIO SECUNDARIO
+panorama_1558EE7E_1E5A_C54C_41A5_642614D8CA90.label = ESCALERAS SEGUNDO PISO
+panorama_1558F25C_1E5A_3D4C_41B6_BE659369B268.label = DORMITORIO SECUNDARIO
+panorama_15594D3B_1E5A_44D4_41B7_B4282075653D.label = WALK-IN CLOSET
+panorama_340D592A_1FA7_CCF4_41B9_209247281655.label = INGRESO
+panorama_348B0917_1E6A_CCDC_41B7_13E3EBD8EB08.label = FACHADA INGRESO
+panorama_3548EFB3_1FA6_43D4_41BE_86311A54E120.label = PASADIZO
+panorama_35582C6F_1FAF_C54C_4196_5B20C564F89C.label = JARDIN POSTERIOR
+panorama_35A7EBB1_1FAF_C3D4_419A_C40A10FB3B9C.label = JARDIN POSTERIOR
+panorama_3F2B5374_1EAA_C35C_419A_C1AC7C5947DD.label = PASADIZO SOTANO
+panorama_63463322_2164_439B_41C1_22A04B010A9B.label = BAÑO PRINCIPAL
+
+## Acción
+
+### URL
+LinkBehaviour_369EB333_213B_C534_4175_384FCF0E022F.source = https://www.facebook.com/ventusconstructora
+LinkBehaviour_3DBD4D8B_2002_DCA2_41A5_4868C563C291.source = https://www.facebook.com/grafo.arquitecturadigital
+LinkBehaviour_3DBD5D8B_2002_DCA2_4178_178C77E25568.source = https://www.instagram.com/grafo_arquitectura3d/
